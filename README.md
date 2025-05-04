@@ -3,7 +3,7 @@ This repository contains the project report and source code for the final projec
 
 ## 📁 Part 1 – Basic Model (Single Day, Uniform Trucks)
 
-### 📌 Notebook: `Part1 Total.ipynb`
+### 📌 Notebook: `Code for Part 1/Part1 Total.ipynb`
 
 #### 0. Module Import  
 Import required Python modules and assign abbreviations.
@@ -47,7 +47,7 @@ Import required Python modules and assign abbreviations.
 
 ## 📁 Part 2 – Extended Model (Single Day, Heterogeneous Trucks)
 
-### 📌 Notebook: `Part2 single day.ipynb`
+### 📌 Notebook: `Code for Part 2 - single day/Part2 single day.ipynb`
 
 #### 1. Data Reading  
 - Same data as Part 1, with added truck type list  
@@ -81,7 +81,7 @@ Import required Python modules and assign abbreviations.
 
 ## 📁 Part 2 – Multi-Period Model (7 Days)
 
-### 📌 Notebook: `part2 multi-period profit of each truck.ipynb`
+### 📌 Notebook: `Code for Part 2 - multi-period/part2 multi-period profit of each truck.ipynb`
 
 This notebook outputs daily profits for each deployed truck to verify cross-day model validity.  
 > For instance, in a 6-day dataset, a truck with negative profit on Day 6 may reveal poor deployment continuity.
@@ -104,7 +104,7 @@ This notebook outputs daily profits for each deployed truck to verify cross-day 
 
 ## 📁 Sensitivity Analysis (Multi-Period)
 
-### 📌 Notebook: `part2 with Sensitivity Analysis.ipynb`
+### 📌 Notebook: `Code for Part 2 - multi-period/part2 with Sensitivity Analysis.ipynb`
 
 - Tested impact of **maximum allowable distance** combined with **maintenance cost ratio** (relative to truck cost)  
 - Conducted full sensitivity analysis on the multi-period model  
