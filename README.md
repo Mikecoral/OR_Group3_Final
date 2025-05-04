@@ -116,19 +116,19 @@ This notebook outputs daily profits for each deployed truck to verify cross-day 
 <table>
   <tr>
     <td align="center">
-      <img src="images/Zhenbei.jpg" width="100px;" alt="Zhenbei Geo"/><br/>
+      <img src="images/Zhenbei.png" width="100px;" alt="Zhenbei Geo"/><br/>
       <sub><b>Zhenbei Geo</b></sub>
     </td>
     <td align="center">
-      <img src="images/Yuecheng.jpg" width="100px;" alt="Yuecheng Hong"/><br/>
+      <img src="images/Yuecheng.png" width="100px;" alt="Yuecheng Hong"/><br/>
       <sub><b>Yuecheng Hong</b></sub>
     </td>
     <td align="center">
-      <img src="images/Yiquan.jpg" width="100px;" alt="Yiquan Liu"/><br/>
+      <img src="images/Yiquan.png" width="100px;" alt="Yiquan Liu"/><br/>
       <sub><b>Yiquan Liu</b></sub>
     </td>
     <td align="center">
-      <img src="images/Yudi.jpg" width="100px;" alt="Yudi Zhang"/><br/>
+      <img src="images/Yudi.png" width="100px;" alt="Yudi Zhang"/><br/>
       <sub><b>Yudi Zhang</b></sub>
     </td>
   </tr>
