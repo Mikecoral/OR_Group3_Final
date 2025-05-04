@@ -32,7 +32,7 @@ Import required Python modules and assign abbreviations.
 #### 3. Linear Programming Solver  
 - **3.1 Load Data:** Assign read-in values to model variables  
 - **3.2 LP Formulation:**
-  - Use built-in solver (e.g., Gurobi or PuLP)  
+  - Use built-in solver ***Gurobi*** 
   - Add constraints and define the objective function  
   - When `show_model=True`, display key performance metrics (profit, revenue, truck costs)  
   - When `is_show_map=True`, generate a visual deployment map  
