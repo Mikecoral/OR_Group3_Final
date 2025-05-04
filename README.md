@@ -133,6 +133,7 @@ This notebook outputs daily profits for each deployed truck to verify cross-day 
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📄 Project Notice
