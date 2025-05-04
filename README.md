@@ -108,3 +108,28 @@ This notebook outputs daily profits for each deployed truck to verify cross-day 
 
 - Tested impact of **maximum allowable distance** combined with **maintenance cost ratio** (relative to truck cost)  
 - Conducted full sensitivity analysis on the multi-period model  
+
+---
+
+## 👥 Team Members
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Zhenbei.jpg" width="100px;" alt="Zhenbei Geo"/><br/>
+      <sub><b>Zhenbei Geo</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/Yuecheng.jpg" width="100px;" alt="Yuecheng Hong"/><br/>
+      <sub><b>Yuecheng Hong</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/Yiquan.jpg" width="100px;" alt="Yiquan Liu"/><br/>
+      <sub><b>Yiquan Liu</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/Yudi.jpg" width="100px;" alt="Yudi Zhang"/><br/>
+      <sub><b>Yudi Zhang</b></sub>
+    </td>
+  </tr>
+</table>
