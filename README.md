@@ -1,5 +1,5 @@
 # 🍜OR_Group3_Final
-This repository contains the project report and source code for the final project of the Operational Research course jointly offered by EMLYON Business School and Harbin Institute of Technology (HIT). We are Group 3 in this course.
+This repository contains the project report and source code for the final project of the Operational Research course jointly offered by EMLYON Business School and Harbin Institute of Technology (HIT). We are Group 3 in this course. The project requirement is uploaded in the folder.
 
 ## 📁 Part 1 – Basic Model (Single Day, Uniform Trucks)
 
