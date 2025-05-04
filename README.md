@@ -1,5 +1,5 @@
 # 🍜OR_Group3_Final
-This repository contains the project report and source code for the final project of the **Operational Research** course jointly offered by EMLYON Business School and Harbin Institute of Technology (HIT). We are **Group 3** in this course. The project requirement is uploaded in the folder.
+This repository contains the project report and source code for the final project of the **Operational Research** course jointly offered by Emlyon Business School and Harbin Institute of Technology (HIT). We are **Group 3** in this course. The project requirement is uploaded in the folder.
 
 ## 📁 Part 1 – Basic Model (Single Day, Uniform Trucks)
 
@@ -137,7 +137,7 @@ This notebook outputs daily profits for each deployed truck to verify cross-day 
 
 ## 📄 Project Notice
 
-This repository is intended solely for academic purposes as part of a course project submission for the Operational Research class jointly offered by EMLYON Business School and Harbin Institute of Technology (HIT).  
+This repository is intended solely for academic purposes as part of a course project submission for the Operational Research class jointly offered by Emlyon Business School and Harbin Institute of Technology (HIT).  
 
 All materials, including code and analysis, are shared for educational exchange and non-commercial research use only.
 
